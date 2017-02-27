@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Cloud 9
+.c9
+
+# ngrok
+ngrok
